@@ -1,0 +1,14 @@
+p {
+  font-size: 150px;
+  color: red;
+  font-family: Park Avenue, cursive;
+  text-align: center;
+}
+
+figure {
+  box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.8);
+  display: block;
+  margin: 0 10%;
+  max-width: 100%;
+  max-height: 100%;
+}
